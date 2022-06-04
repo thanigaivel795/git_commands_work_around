@@ -1,0 +1,5 @@
+Git init - initializes empty repo in local
+
+git remote add <remote_name> <remote_repo_url> - git remote add the remote repo url to the "remote_name" which we mwntion b4.
+
+git push -u remote-name local_branch_name - this command push the changes from local to the remote repo using upstream
